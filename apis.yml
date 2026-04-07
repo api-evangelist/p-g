@@ -9,9 +9,8 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Consumer Goods
   - API Marketplace
-  - API
+  - Consumer Goods
 created: '2025-02-08'
 modified: '2026-03-16'
 url: https://raw.githubusercontent.com/api-evangelist/p-g/refs/heads/main/apis.yml
@@ -24,8 +23,8 @@ apis:
       and Architects to discover and use P&G APIs.
     humanURL: https://developer.pg.com/
     tags:
-      - Consumer Goods
       - API Marketplace
+      - Consumer Goods
     properties:
       - type: Documentation
         url: https://developer.pg.com/
