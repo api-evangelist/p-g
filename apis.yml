@@ -31,6 +31,8 @@ apis:
       - type: Portal
         url: https://developer.pg.com/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/procter-gamble
   - type: Portal
     url: https://developer.pg.com/
   - type: Website
