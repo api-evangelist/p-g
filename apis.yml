@@ -31,6 +31,10 @@ apis:
       - type: Portal
         url: https://developer.pg.com/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/p-g-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/p-g-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/procter-gamble
   - type: Portal
