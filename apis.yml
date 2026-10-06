@@ -35,7 +35,7 @@ tags:
   - API Marketplace
   - Consumer Goods
 created: '2025-02-08'
-modified: '2026-04-28'
+modified: '2026-10-06'
 url: https://raw.githubusercontent.com/api-evangelist/p-g/refs/heads/main/apis.yml
 specificationVersion: '0.23'
 apis:
@@ -54,6 +54,8 @@ apis:
       - type: Portal
         url: https://developer.pg.com/
 common:
+  - url: https://us.pg.com/blogs/
+    type: Blog
   - type: VulnerabilityDisclosure
     url: security/p-g-vulnerability-disclosure.yml
   - type: DomainSecurity
