@@ -7,15 +7,18 @@ front_door_ai:
   probed_at: '2026-09-17'
   host: www.pg.com
   final_host: us.pg.com
-  ownership: inherited
+  ownership: own
   owner: p-g
   shares_host_with:
   - procter-and-gamble
-  inherited_from: us.pg.com
+  inherited_from: null
+  alias_of: us.pg.com
   verdict: silent
-  score: null
+  score: 0
+  band: 1
+  band_label: silent
   host_score: 0
-  density: null
+  density: 0.0
   words: 302
   tiers:
     agentic: 0
